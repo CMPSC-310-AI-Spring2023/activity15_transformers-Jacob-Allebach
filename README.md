@@ -10,3 +10,9 @@
 ## Submission
 
 Submit completed Colab notebook showing generated output.
+
+## Data
+
+The data used in this tutorial is a Portuguese-to-English translation dataset that contains about 52,000 training examples. The pre-processing for this data begins by tokenizing the text so that common words and parts of words are saved as tokens to use when analyzing text later.
+
+## Transformer Components
